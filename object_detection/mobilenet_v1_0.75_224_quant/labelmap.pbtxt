@@ -1,0 +1,119 @@
+item {
+  id: 1
+  name: 'PET Bottle'
+}
+
+item {
+  id: 2
+  name: 'Bottle Cap'
+}
+
+item {
+  id: 3
+  name: 'Rubber Band'
+}
+
+item {
+  id: 4
+  name: 'Spoon'
+}
+
+item {
+  id: 5
+  name: 'Fork'
+}
+
+item {
+  id: 6
+  name: 'Straw'
+}
+
+item {
+  id: 7
+  name: 'Plastic Cup'
+}
+
+item {
+  id: 8
+  name: 'Paper Bowl'
+}
+
+item {
+  id: 9
+  name: 'Plastic Wrapper'
+}
+
+item {
+  id: 10
+  name: 'Tissue'
+}
+
+item {
+  id: 11
+  name: 'Paper Cup'
+}
+
+item {
+  id: 12
+  name: 'Yakult'
+}
+
+item {
+  id: 13
+  name: 'Tin Can'
+}
+
+item {
+  id: 14
+  name: 'Paper Bag'
+}
+
+item {
+  id: 15
+  name: 'Plastic Lid'
+}
+
+item {
+  id: 16
+  name: 'Cardboard'
+}
+
+item {
+  id: 17
+  name: 'Doy Pack'
+}
+
+item {
+  id: 18
+  name: 'Paper'
+}
+
+item {
+  id: 19
+  name: 'Knife'
+}
+
+item {
+  id: 20
+  name: 'Plastic Bag'
+}
+
+item {
+  id: 21
+  name: 'Paper Bag'
+}
+
+item {
+  id: 22
+  name: 'Box'
+}
+
+item {
+  id: 23
+  name: 'Yellow Paper'
+}
+
+item {
+  id: 24
+  name: 'Unidentified'
+}

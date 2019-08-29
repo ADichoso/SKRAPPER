@@ -1,0 +1,34 @@
+D:\Downloads\AARON\Trash detection\Trash detection\bin\Debug\Trash detection.exe.config
+D:\Downloads\AARON\Trash detection\Trash detection\bin\Debug\Trash detection.exe
+D:\Downloads\AARON\Trash detection\Trash detection\bin\Debug\Trash detection.pdb
+D:\Downloads\AARON\Trash detection\Trash detection\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Downloads\AARON\Trash detection\Trash detection\obj\Debug\Trash detection.csprojAssemblyReference.cache
+D:\Downloads\AARON\Trash detection\Trash detection\obj\Debug\Trash_detection.form_main.resources
+D:\Downloads\AARON\Trash detection\Trash detection\obj\Debug\Trash_detection.Properties.Resources.resources
+D:\Downloads\AARON\Trash detection\Trash detection\obj\Debug\Trash detection.csproj.GenerateResource.cache
+D:\Downloads\AARON\Trash detection\Trash detection\obj\Debug\Trash detection.csproj.CoreCompileInputs.cache
+D:\Downloads\AARON\Trash detection\Trash detection\obj\Debug\Trash detection.csproj.CopyComplete
+D:\Downloads\AARON\Trash detection\Trash detection\obj\Debug\Trash detection.exe
+D:\Downloads\AARON\Trash detection\Trash detection\obj\Debug\Trash detection.pdb
+D:\Downloads\AARON\models\research\object_detection\_UI\Trash detection\Trash detection\obj\Debug\Trash detection.csprojAssemblyReference.cache
+D:\Downloads\AARON\models\research\object_detection\_UI\Trash detection\Trash detection\obj\Debug\Trash_detection.form_main.resources
+D:\Downloads\AARON\models\research\object_detection\_UI\Trash detection\Trash detection\obj\Debug\Trash_detection.Properties.Resources.resources
+D:\Downloads\AARON\models\research\object_detection\_UI\Trash detection\Trash detection\obj\Debug\Trash detection.csproj.GenerateResource.cache
+D:\Downloads\AARON\models\research\object_detection\_UI\Trash detection\Trash detection\obj\Debug\Trash detection.csproj.CoreCompileInputs.cache
+D:\Downloads\AARON\models\research\object_detection\_UI\Trash detection\Trash detection\obj\Debug\Trash detection.csproj.CopyComplete
+D:\Downloads\AARON\models\research\object_detection\_UI\Trash detection\Trash detection\obj\Debug\Trash detection.exe
+D:\Downloads\AARON\models\research\object_detection\_UI\Trash detection\Trash detection\obj\Debug\Trash detection.pdb
+D:\Downloads\AARON\models\research\object_detection\Trash detection.exe.config
+D:\Downloads\AARON\models\research\object_detection\Trash detection.exe
+D:\Downloads\AARON\models\research\object_detection\Trash detection.pdb
+C:\Users\aaron_000\Documents\Grade 10 Stuffs\Science Research\SKRAPPER\object_detection\_UI\Trash detection\Trash detection\obj\Debug\Trash detection.csprojAssemblyReference.cache
+C:\Users\aaron_000\Documents\Grade 10 Stuffs\Science Research\SKRAPPER\object_detection\_UI\Trash detection\Trash detection\obj\Debug\Trash_detection.form_main.resources
+C:\Users\aaron_000\Documents\Grade 10 Stuffs\Science Research\SKRAPPER\object_detection\_UI\Trash detection\Trash detection\obj\Debug\Trash_detection.Properties.Resources.resources
+C:\Users\aaron_000\Documents\Grade 10 Stuffs\Science Research\SKRAPPER\object_detection\_UI\Trash detection\Trash detection\obj\Debug\Trash detection.csproj.GenerateResource.cache
+C:\Users\aaron_000\Documents\Grade 10 Stuffs\Science Research\SKRAPPER\object_detection\_UI\Trash detection\Trash detection\obj\Debug\Trash detection.csproj.CoreCompileInputs.cache
+C:\Users\aaron_000\Documents\Grade 10 Stuffs\Science Research\SKRAPPER\object_detection\_UI\Trash detection\Trash detection\obj\Debug\Trash detection.csproj.CopyComplete
+C:\Users\aaron_000\Documents\Grade 10 Stuffs\Science Research\SKRAPPER\object_detection\Trash detection.exe.config
+C:\Users\aaron_000\Documents\Grade 10 Stuffs\Science Research\SKRAPPER\object_detection\_UI\Trash detection\Trash detection\obj\Debug\Trash detection.exe
+C:\Users\aaron_000\Documents\Grade 10 Stuffs\Science Research\SKRAPPER\object_detection\_UI\Trash detection\Trash detection\obj\Debug\Trash detection.pdb
+C:\Users\aaron_000\Documents\Grade 10 Stuffs\Science Research\SKRAPPER\object_detection\Trash detection.exe
+C:\Users\aaron_000\Documents\Grade 10 Stuffs\Science Research\SKRAPPER\object_detection\Trash detection.pdb
